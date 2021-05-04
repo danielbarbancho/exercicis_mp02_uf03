@@ -627,6 +627,7 @@ mysql> DELIMITER ;
 
 **1. Enllaç al fitxer**
 https://github.com/danielbarbancho/exercicis_mp02_uf03/blob/main/BarbanchoDaniel_Act_03_ProcEmm_MySQL_Apartat012.sql
+
 **2. Contingut del fitxer**
 ```sql
    USE videoclub;
@@ -696,6 +697,7 @@ Query OK, 0 rows affected (0.01 sec)
 
 **1. Enllaç al fitxer**
 https://github.com/danielbarbancho/exercicis_mp02_uf03/blob/main/BarbanchoDaniel_Act_03_ProcEmm_MySQL_Apartat013.sql
+
 **2. Contingut del fitxer**
 ```sql
      
